@@ -59,7 +59,7 @@ The project was tested mainly through using the Web developer tools available in
 ## <b> Other Notes </b>
 Before I submit I want to mention some short-comings in the project and features I would've wanted to add to the project
 <ol> 
-    <li> Currently this iteration has no styling and it quite unappealing to look at. I spent the majority of my time implementing the functionality of the project and combined with the class scheuled and TA work, I was unable to address the styling on the project. So I defintelty would have wanted to make the pages look better than just the vanilla look that they have right now</li>
+    <li> Currently this iteration has no styling and it quite unappealing to look at. I spent the majority of my time implementing the functionality of the project and combined with the class scheuling and TA work, I was unable to address the styling on the project. So I defintelty would have wanted to make the pages look better than just the vanilla look that they have right now</li>
     <li> One feature that I would've wanted to implement was if there was missing information on the Add member or edit pages. Currently the add and edit pages do not care if you have all the information in the input fields. This practically is an issue and something I would've wanted to add</li>
 
 </ol>
